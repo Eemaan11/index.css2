@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>photography</title>
+    <link rel="stylesheet" href="style.css" >
+</head>
+<body>
+  <div id="img">
+  <img id="img1"src="https://images.unsplash.com/photo-1704303928271-775bb222ab46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+
+  <p class="text-on-img">PHOTOGRAPHER</p>
+  </div>
+
+
+<div id="flexbox">
+  <a href="https"><b>HOME</b></a>
+  <a href="https"><b>Portfolio</b></a>
+  <a href="https"><b>Contact</b></a>
+
+
+     
+     <head>
+     </body>
+     <div>
+     <div class="background-image">
+      <img src="https://images.unsplash.com/photo-1704303928271-775bb222ab46?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+       <div>
+        <div class="background-image">
+          <img src="https://images.unsplash.com/photo-1682687221175-fd40bbafe6ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+          <div>
+            <div class="background-image">
+              <img src="https://images.unsplash.com/photo-1682687221175-fd40bbafe6ca?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D">
+              <div>
+    <head>
+     <body>
+
+       
+
+    </div>
+    
+</body>
+</html>
+    
+      
+       
